@@ -1,0 +1,28 @@
+name: jensen
+favicon: null
+layout_spectrum: 0.8911030110903084
+typography_spectrum: 0.6783516600262374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8005765231791884
+  lightness: 0.4209295080509037
+  saturation: 0.5693065116647631
+  rhythmicContrast: 0.6925215993542224
+purpose: []
